@@ -1,0 +1,4 @@
+model,purpose,accuracy,f1,roc_auc
+xgboost,live_match_context,0.9383,0.9414,0.9866
+random_forest,live_match_context,0.8521,0.8593,0.9435
+logistic_regression,match_level_baseline,0.5367,0.559,0.5641
